@@ -9,7 +9,7 @@ Exámenes del curso. Practicando.
 Puedes usarlo como un template base para desarrollar los ejercicios. Recuerda
 tener claro que métodos te permite usar cada uno.
 
-```  
+```cpp  
 #pragma once
 #include <iostream>
 #include <string.h>
