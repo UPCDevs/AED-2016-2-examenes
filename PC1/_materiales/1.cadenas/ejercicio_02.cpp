@@ -32,13 +32,13 @@ int contarPalabras (string s){
 
 
 int main(){
-	string palabra = "Hola como estas";
+	string palabra = "Daniel codea peor que Jaime";
 
-	char fraseFormat[200];
+	//char fraseFormat[200];
 
-	strcpy_s(fraseFormat, palabra.c_str());
+	//strcpy_s(fraseFormat, palabra.c_str());
 
-	cout << "Frase: " << fraseFormat<<endl;
+	cout << "Frase: " << palabra<<endl;
 	cout << "Cantidad de palabras = " << contarPalabras(palabra) << endl;
 
 	system("PAUSE");
